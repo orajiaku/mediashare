@@ -1,0 +1,11 @@
+{
+  "name": "mediashare",
+  "version": "0.1.0",
+  "description": "Media sharing",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron index.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
